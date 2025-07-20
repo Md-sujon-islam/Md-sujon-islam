@@ -1,6 +1,6 @@
 # 🕶️ Md Sujon Islam — Explorer on the Path of Hacking
 
-👋 Welcome! I'm Md Sujon Islam — a passionate learner driven by curiosity and a thirst for technological knowledge. I use GitHub to showcase my skills, experiments, and hacking journey.
+👋 Welcome I'm Md Sujon Islam — a passionate learner driven by curiosity and a thirst for technological knowledge. I use GitHub to showcase my skills, experiments, and hacking journey.
 
 ---
 
